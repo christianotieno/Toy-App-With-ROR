@@ -1,7 +1,24 @@
-# Toy-App-With-ROR
+# README
 
-## DEVELOPMENT BRANCH
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-### AUTHOR
+Things you may want to cover:
 
-#### Christian Otieno
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
