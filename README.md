@@ -1,6 +1,6 @@
 # Toy-App-With-ROR
 
-## DEVELOMENT BRANCH
+## DEVELOPMENT BRANCH
 
 ### AUTHOR
 
